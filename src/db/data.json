@@ -23,6 +23,10 @@
     {
       "day": 6,
       "id": 6
+    },
+    {
+      "day": 7,
+      "id": 7
     }
   ],
   "words": [
@@ -153,11 +157,25 @@
       "id": 19
     },
     {
-      "eng": "b",
-      "kor": "b",
-      "day": "6",
+      "eng": "English",
+      "kor": "영어",
+      "day": "1",
       "isDone": false,
       "id": 20
+    },
+    {
+      "eng": "",
+      "kor": "",
+      "day": "1",
+      "isDone": false,
+      "id": 21
+    },
+    {
+      "eng": "voca",
+      "kor": "단어",
+      "day": "7",
+      "isDone": false,
+      "id": 22
     }
   ]
 }

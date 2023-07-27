@@ -6,3 +6,7 @@
 - React: `npm start`
 - json-server: `json-server --watch ./src/db/data.json --port 3001`
 
+### 🍄 강의 설명 외 기능 추가
+- [x] Day.tsx 컴포넌트 내에서 이전 day, 다음 day로 이동
+  - [x] 첫번째 페이지의 prev, 마지막 페이지에서 next는 이동 X
+  - [x] 버튼 disabeld 추가

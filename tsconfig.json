@@ -1,0 +1,27 @@
+{
+  "compilerOptions": {
+    "target": "es6", // es5를 es6로 변경
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext",
+      "es6" // 추가
+    ],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "noFallthroughCasesInSwitch": true,
+    "module": "esnext", // react의 경우 esnext
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true,
+    "jsx": "react-jsx"
+  },
+  "include": [
+    "src"
+  ]
+}
