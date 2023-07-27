@@ -1,0 +1,163 @@
+{
+  "days": [
+    {
+      "id": 1,
+      "day": 1
+    },
+    {
+      "id": 2,
+      "day": 2
+    },
+    {
+      "id": 3,
+      "day": 3
+    },
+    {
+      "day": 4,
+      "id": 4
+    },
+    {
+      "day": 5,
+      "id": 5
+    },
+    {
+      "day": 6,
+      "id": 6
+    }
+  ],
+  "words": [
+    {
+      "id": 1,
+      "day": 1,
+      "eng": "book",
+      "kor": "책",
+      "isDone": true
+    },
+    {
+      "id": 2,
+      "day": 1,
+      "eng": "apple",
+      "kor": "사과",
+      "isDone": false
+    },
+    {
+      "id": 3,
+      "day": 2,
+      "eng": "car",
+      "kor": "자동차",
+      "isDone": true
+    },
+    {
+      "eng": "computer",
+      "kor": "컴퓨터",
+      "day": "1",
+      "isDone": false,
+      "id": 4
+    },
+    {
+      "eng": "book",
+      "kor": "책",
+      "day": "3",
+      "isDone": false,
+      "id": 5
+    },
+    {
+      "eng": "ipad",
+      "kor": "아이패드",
+      "day": "1",
+      "isDone": false,
+      "id": 6
+    },
+    {
+      "eng": "mouse",
+      "kor": "쥐",
+      "day": "2",
+      "isDone": false,
+      "id": 7
+    },
+    {
+      "eng": "cat",
+      "kor": "고양이",
+      "day": "2",
+      "isDone": false,
+      "id": 8
+    },
+    {
+      "eng": "dog",
+      "kor": "강아지",
+      "day": "1",
+      "isDone": false,
+      "id": 9
+    },
+    {
+      "eng": "kitten",
+      "kor": "아기고양이",
+      "day": "3",
+      "isDone": false,
+      "id": 10
+    },
+    {
+      "eng": "food",
+      "kor": "음식",
+      "day": "3",
+      "isDone": false,
+      "id": 11
+    },
+    {
+      "eng": "cocktail",
+      "kor": "칵테일",
+      "day": "3",
+      "isDone": false,
+      "id": 12
+    },
+    {
+      "eng": "four",
+      "kor": "4",
+      "day": "4",
+      "isDone": false,
+      "id": 13
+    },
+    {
+      "eng": "five",
+      "kor": "5",
+      "day": "5",
+      "isDone": false,
+      "id": 14
+    },
+    {
+      "eng": "lime",
+      "kor": "라임",
+      "day": "5",
+      "isDone": false,
+      "id": 16
+    },
+    {
+      "eng": "English",
+      "kor": "영어",
+      "day": "4",
+      "isDone": false,
+      "id": 17
+    },
+    {
+      "eng": "word",
+      "kor": "단어",
+      "day": "4",
+      "isDone": false,
+      "id": 18
+    },
+    {
+      "eng": "a",
+      "kor": "a",
+      "day": "6",
+      "isDone": false,
+      "id": 19
+    },
+    {
+      "eng": "b",
+      "kor": "b",
+      "day": "6",
+      "isDone": false,
+      "id": 20
+    }
+  ]
+}
